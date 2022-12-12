@@ -1,8 +1,10 @@
-<h3 align="center">Desarrollador Web Full Stack con preferencia por el Backend</h3>
+<h3 align="center">Fulvio Román Todone - Fullstack/Backend Web Developer</h3>
 
 - 🌱 Actualmente estoy aprendiendo **MySQL y PHP**
 
 - 📫 Me puedes contactar por mail en **fromant65@gmail.com**
+
+- 👨‍💻 Mi cuenta de LinkedIn es la siguiente: **<a href="https://www.linkedin.com/in/fulvio-roman-todone-23170a257/" target="_blank" rel="noreferrer">Fulvio Román Todone</a>**
 
 <!--
 <h3 align="left">Connect with me:</h3>
