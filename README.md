@@ -3,6 +3,7 @@
 - 📫 Me puedes contactar por mail en **fromant65@gmail.com**
 
 - 👨‍💻 Mi cuenta de LinkedIn es la siguiente: **<a href="https://www.linkedin.com/in/fulvio-roman-todone-23170a257/" target="_blank" rel="noreferrer">Fulvio Román Todone</a>**
+- 🌐 **<a href="https://fulvio-todone.netlify.app/" target="_blank" rel="noreferrer">Clickeando acá</a>** podés acceder a mí página web donde hay más detalles sobre los proyectos que hice y mí formación.
 
 <!--
 <h3 align="left">Connect with me:</h3>
