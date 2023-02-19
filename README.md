@@ -1,4 +1,4 @@
-<h3 align="center">Fulvio Román Todone - Fullstack/Backend Web Developer</h3>
+<h3 align="center">Fulvio Román Todone - Fullstack Web Developer</h3>
 
 - 📫 Me puedes contactar por mail en **fromant65@gmail.com**
 
